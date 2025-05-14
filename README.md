@@ -1,5 +1,7 @@
 Instagram Data Analysis Project 📊
+
 Project Description
+
 This project analyzes Instagram post performance data to uncover insights about engagement patterns and content effectiveness. The analysis helps identify what types of posts perform best and when to post them.
 
 Data Cleaning
